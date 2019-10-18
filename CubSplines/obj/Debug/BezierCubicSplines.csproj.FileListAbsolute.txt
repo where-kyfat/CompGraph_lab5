@@ -1,0 +1,9 @@
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\bin\Debug\BezierCubicSplines.exe
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\bin\Debug\BezierCubicSplines.pdb
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\obj\Debug\BezierCubicSplines.csprojAssemblyReference.cache
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\obj\Debug\BezierCubicSplines.Form1.resources
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\obj\Debug\BezierCubicSplines.Properties.Resources.resources
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\obj\Debug\BezierCubicSplines.csproj.GenerateResource.cache
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\obj\Debug\BezierCubicSplines.csproj.CoreCompileInputs.cache
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\obj\Debug\BezierCubicSplines.exe
+D:\User\Desktop\lab5\L-Systems-Diamond-square-Splines-master\BezierCubicSplines\BezierCubicSplines\obj\Debug\BezierCubicSplines.pdb

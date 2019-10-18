@@ -1,0 +1,12 @@
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\bin\Debug\Graf5.exe.config
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\bin\Debug\Graf5.exe
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\bin\Debug\Graf5.pdb
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\bin\Debug\Nakov.TurtleGraphics.dll
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\CompGraph_lab5.csprojAssemblyReference.cache
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\Graf5.Form1.resources
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\Graf5.Properties.Resources.resources
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\CompGraph_lab5.csproj.GenerateResource.cache
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\CompGraph_lab5.csproj.CoreCompileInputs.cache
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\CompGraph_lab5.csproj.CopyComplete
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\Graf5.exe
+D:\User\Документы\GitHub\CompGraph_lab5\L-system\obj\Debug\Graf5.pdb

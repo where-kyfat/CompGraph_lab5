@@ -1,0 +1,10 @@
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\bin\Debug\diamond sq.exe.config
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\bin\Debug\diamond sq.exe
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\bin\Debug\diamond sq.pdb
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\obj\Debug\Diamond-square.csprojAssemblyReference.cache
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\obj\Debug\task2.Form1.resources
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\obj\Debug\diamond_sq.Properties.Resources.resources
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\obj\Debug\Diamond-square.csproj.GenerateResource.cache
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\obj\Debug\Diamond-square.csproj.CoreCompileInputs.cache
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\obj\Debug\diamond sq.exe
+D:\User\Документы\GitHub\CompGraph_lab5\Diamond-square\obj\Debug\diamond sq.pdb
